@@ -24,16 +24,6 @@ I'm currently based in **[Lahore, Pakistan.](https://www.google.com/maps/place/L
 I am an energetic and enthusiastic Software Engineer who enjoys a challenge and achieving personal goals. My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
 <br />
 
-**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
-
-**Happy Coding!** 😊
-
 </div>
 
 <div align="center">
