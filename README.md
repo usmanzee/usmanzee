@@ -15,22 +15,17 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Muhammad Usman Codewars Badge">
 <br />
 <br />
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[Lahore, Pakistan.](https://www.google.com/maps/place/Lahore,+Punjab,+Pakistan/@31.4828641,74.1943058,11z/data=!3m1!4b1!4m5!3m4!1s0x39190483e58107d9:0xc23abe6ccc7e2462!8m2!3d31.5203696!4d74.3587473)**
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
-<br />
-<br />
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
+I am an energetic and enthusiastic Software Engineer who enjoys a challenge and achieving personal goals. My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
 <br />
 <br />
 
