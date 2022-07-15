@@ -10,13 +10,9 @@
 <a href="https://www.instagram.com/usman.jamil0308/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://achhoubiplus.hashnode.dev" target="_blank">
+<a href="https://stackexchange.com/users/7859519/muhammad-usman?tab=reputation" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%2300acee.svg?color=FFA726&style=for-the-badge&logo=stackoverflow&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
-<br />
-<br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Muhammad Usman Codewars Badge">
-<br />
 <br />
 
 I'm a Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
@@ -26,7 +22,6 @@ I'm currently based in **[Lahore, Pakistan.](https://www.google.com/maps/place/L
 
 <br />
 I am an energetic and enthusiastic Software Engineer who enjoys a challenge and achieving personal goals. My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
-<br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
