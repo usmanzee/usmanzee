@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/usman.jamil0308/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackexchange.com/users/7859519/muhammad-usman?tab=reputation" target="_blank">
+<a href="https://stackoverflow.com/users/5940340/muhammad-usman" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%2300acee.svg?color=FFA726&style=for-the-badge&logo=stackoverflow&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
 <br />
