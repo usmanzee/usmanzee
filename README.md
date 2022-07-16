@@ -15,7 +15,8 @@
 </a>
 <br />
 
-I am an energetic and enthusiastic Software Engineer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. 
+I am an energetic and enthusiastic Software Engineer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+<br />
 My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
 <br />
 
