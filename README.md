@@ -14,15 +14,11 @@
 <img src=https://img.shields.io/badge/stackoverflow-%2300acee.svg?color=FFA726&style=for-the-badge&logo=stackoverflow&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
 </a>
 <br />
-<br />
 
-I'm a Full Stack Developer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I am an energetic and enthusiastic Software Engineer with 5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
 <br />
 
 I'm currently based in **[Lahore, Pakistan.](https://www.google.com/maps/place/Lahore,+Punjab,+Pakistan/@31.4828641,74.1943058,11z/data=!3m1!4b1!4m5!3m4!1s0x39190483e58107d9:0xc23abe6ccc7e2462!8m2!3d31.5203696!4d74.3587473)**
-
-I am an energetic and enthusiastic Software Engineer who enjoys a challenge and achieving personal goals. My current career aim is to work within IT because I find it interesting and satisfying. The opportunity to learn new skills and work with new technologies is particularly attractive to me.
-<br />
 
 </div>
 
